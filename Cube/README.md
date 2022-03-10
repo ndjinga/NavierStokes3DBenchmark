@@ -10,10 +10,16 @@ The cube meshes consist in three families.
 - gentle tetrahedra (compatible with finite elements or finite volume discretisations)  
   <img src="3DTetrahedra/mesh_tetra_0.jpg" alt="gentle tetrahedra" width="100"/>  
   The meshes originate from the conference [FVCA6 benchmark](https://github.com/ndjinga/FVCA\_Meshes) in Prague, 2011.
-  | | mesh\_tetra\_0 | | mesh\_tetra\_1 | mesh\_tetra\_2 | mesh\_tetra\_3 | mesh\_tetra\_4 | mesh\_tetra\_5 | mesh\_tetra\_6 |
+  |  | mesh\_tetra\_0 | mesh\_tetra\_1 | mesh\_tetra\_2 | mesh\_tetra\_3 | mesh\_tetra\_4 | mesh\_tetra\_5 | mesh\_tetra\_6 |
   | --- | --- | --- | --- | --- | --- | --- | --- |
   | Number of nodes | 80 | 488 | 857 | 1601 | 2997 | 5692 | 10994 |
   | Number of cells | 215 | 2003 | 3898 | 7711 | 15266 | 30480 | 61052 |
 - tough tetrahedra (compatible with finite elements or finite volume discretisations)
+  <img src="3DTetrahedra_Kershaw/3DKershaw1.png" alt="bad tetrahedra" width="100"/>  
+  The meshes where obtained by tetrahedrisation of the Kershaw meshes from the conference [FVCA6 benchmark](https://github.com/ndjinga/FVCA\_Meshes) in Prague, 2011.
+  |  | 3DKershawTetra1 | 3DKershawTetra2 | 3DKershawTetra3 |
+  | --- | --- | --- | --- |
+  | Number of nodes | 80 | 488 | 857 |
+  | Number of cells | 215 | 2003 | 3898 |
 - Kershaw polyhedra (compatible with finite volume discretisation)
 
