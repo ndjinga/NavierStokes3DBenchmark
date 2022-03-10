@@ -14,12 +14,18 @@ The cube meshes consist in three families.
   | --- | --- | --- | --- | --- | --- | --- | --- |
   | Number of nodes | 80 | 488 | 857 | 1601 | 2997 | 5692 | 10994 |
   | Number of cells | 215 | 2003 | 3898 | 7711 | 15266 | 30480 | 61052 |
-- tough tetrahedra (compatible with finite elements or finite volume discretisations)
+- tough tetrahedra (compatible with finite elements or finite volume discretisations)  
   <img src="3DTetrahedra_Kershaw/3DKershaw1.png" alt="bad tetrahedra" width="100"/>  
   The meshes where obtained by tetrahedrisation of the Kershaw meshes from the conference [FVCA6 benchmark](https://github.com/ndjinga/FVCA\_Meshes) in Prague, 2011.
   |  | 3DKershawTetra1 | 3DKershawTetra2 | 3DKershawTetra3 |
   | --- | --- | --- | --- |
   | Number of nodes | 3865 | 31793 | 258145 |
   | Number of cells | 11072 | 93440 | 766976 |
-- Kershaw polyhedra (compatible with finite volume discretisation)
+- Kershaw polyhedra (compatible with finite volume discretisation)  
+  <img src="3DKershaw/kershaw.png" alt="Kershaw polyhedra" width="100"/>  
+  The meshes originate from the conference [FVCA6 benchmark](https://github.com/ndjinga/FVCA\_Meshes) in Prague, 2011.
+  |  | Kershaw1 | Kershaw2 | Kershaw3 | Kershaw4 |
+  | --- | --- | --- | --- | --- |
+  | Number of nodes | 729 | 4913 | 35937 | 274625 |
+  | Number of cells | 512 | 4096 | 32768 | 262144 |
 
