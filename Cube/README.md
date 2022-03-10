@@ -19,7 +19,7 @@ The cube meshes consist in three families.
   The meshes where obtained by tetrahedrisation of the Kershaw meshes from the conference [FVCA6 benchmark](https://github.com/ndjinga/FVCA\_Meshes) in Prague, 2011.
   |  | 3DKershawTetra1 | 3DKershawTetra2 | 3DKershawTetra3 |
   | --- | --- | --- | --- |
-  | Number of nodes | 80 | 488 | 857 |
-  | Number of cells | 215 | 2003 | 3898 |
+  | Number of nodes | 3865 | 31793 | 258145 |
+  | Number of cells | 11072 | 93440 | 766976 |
 - Kershaw polyhedra (compatible with finite volume discretisation)
 
