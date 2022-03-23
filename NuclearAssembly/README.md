@@ -2,7 +2,7 @@
 
 </center>
 
-| <img src="RodVisualisation.jpg" alt="7-pin nuclear assembly" width="500"/> |
+| <img src="pictures/RodVisualisation.jpg" alt="7-pin nuclear assembly" width="500"/> |
 |:--:|
 | **CAD of the nuclear assembly domain** |
 
@@ -11,8 +11,8 @@
 The domain is a channel with hexagonal cross-section, obstructed by a 7-pin nuclear assembly wrapped with wires.  
 
 We provide a single familly of tetrahedra meshes for the fluid domain (compatible with finite elements or finite volume discretisations)  
-  <img src="AssemblyMesh1.png" alt="tetrahedra mesh1" width="300"/>
-  <img src="AssemblyMesh2.png" alt="tetrahedra mesh2" width="300"/>  
+  <img src="pictures/AssemblyMesh1.png" alt="tetrahedra mesh1" width="300"/>
+  <img src="pictures/AssemblyMesh2.png" alt="tetrahedra mesh2" width="300"/>  
   |  | AssemblyMesh1 | AssemblyMesh2 | AssemblyMesh3 | AssemblyMesh4 | AssemblyMesh5 | AssemblyMesh6 |
   | --- | --- | --- | --- | --- | --- | --- |
   | Number of nodes | 4999 | 15272 | 40976 | 63608 | 114915 | 209460 |
