@@ -1,8 +1,10 @@
+# Nuclear assembly domain
+
 </center>
 
-| ![logo](RodVisualisation.jpg) |
+| <img src="RodVisualisation.jpg" alt="7-pin nuclear assembly" width="300"/> |
 |:--:|
-| **Nuclear assembly domain** |
+| **CAD of the nuclear assembly domain** |
 
 </center>
 
