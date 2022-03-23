@@ -1,8 +1,10 @@
+# Cube domain
+
 </center>
 
-| **Cube domain** |
-|:--:|
 |  <img src="UnitCube.png" alt="unit cube" width="300"/> |
+|:--:|
+| **CAD of the cube domain** |
 
 </center>
 
