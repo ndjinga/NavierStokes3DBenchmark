@@ -14,7 +14,6 @@ We provide a single familly of tetrahedra meshes for the fluid domain (compatibl
 
   <img src="AssemblyMesh1.png" alt="tetrahedra mesh1" width="300"/>
   <img src="AssemblyMesh2.png" alt="tetrahedra mesh2" width="300"/>
-
   |  | AssemblyMesh1 | AssemblyMesh2 | AssemblyMesh3 | AssemblyMesh4 | AssemblyMesh5 | AssemblyMesh6 |
   | --- | --- | --- | --- | --- | --- | --- |
   | Number of nodes | 4999 | 15272 | 40976 | 63608 | 114915 | 209460 |
