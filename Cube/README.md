@@ -1,6 +1,6 @@
 </center>
 
-| ![logo](UnitCube.png) |
+|  <img src="UnitCube.png" alt="unit cube" width="300"/> |
 |:--:|
 | **Cube domain** |
 
