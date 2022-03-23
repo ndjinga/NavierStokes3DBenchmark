@@ -12,8 +12,8 @@ The domain is a channel with hexagonal cross-section, obstructed by a 7-pin nucl
 
 We provide a single familly of tetrahedra meshes for the fluid domain (compatible with finite elements or finite volume discretisations)  
 
-  <img src="AssemblyMesh1.png" alt="tetrahedra mesh1" width="200"/>
-  <img src="AssemblyMesh2.png" alt="tetrahedra mesh2" width="200"/>  
+  <img src="AssemblyMesh1.png" alt="tetrahedra mesh1" width="300"/>
+  <img src="AssemblyMesh2.png" alt="tetrahedra mesh2" width="300"/>
 
   |  | AssemblyMesh1 | AssemblyMesh2 | AssemblyMesh3 | AssemblyMesh4 | AssemblyMesh5 | AssemblyMesh6 |
   | --- | --- | --- | --- | --- | --- | --- |
