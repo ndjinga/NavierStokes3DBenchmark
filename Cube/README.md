@@ -1,4 +1,12 @@
-# Cube meshes
+</center>
+
+| ![logo](UnitCube.png) |
+|:--:|
+| *Cube domain* |
+
+</center>
+
+The domain is a regular cube.
 The cube meshes consist in three families.
 - uniform hexahedra  (compatible with finite difference or finite volume discretisations)  
   <img src="3DHexaèdres/mesh_hexa_2.jpg" alt="uniform hexahedra" width="100"/>  
