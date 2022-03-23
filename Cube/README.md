@@ -1,13 +1,13 @@
 </center>
 
-|  <img src="UnitCube.png" alt="unit cube" width="300"/> |
-|:--:|
 | **Cube domain** |
+|:--:|
+|  <img src="UnitCube.png" alt="unit cube" width="300"/> |
 
 </center>
 
 The domain is a regular cube.
-The cube meshes consist in three families.
+The cube meshes belong to three families.
 - uniform hexahedra  (compatible with finite difference or finite volume discretisations)  
   <img src="3DHexaèdres/mesh_hexa_2.jpg" alt="uniform hexahedra" width="100"/>  
   The meshes originate from the conference [FVCA6 benchmark](https://github.com/ndjinga/FVCA\_Meshes) in Prague, 2011.
