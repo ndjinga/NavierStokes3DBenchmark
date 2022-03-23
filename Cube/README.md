@@ -2,7 +2,7 @@
 
 | ![logo](UnitCube.png) |
 |:--:|
-| *Cube domain* |
+| **Cube domain** |
 
 </center>
 
