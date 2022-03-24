@@ -1,4 +1,4 @@
-# Navier-Stokes benchmark
+# Navier-Stokes 3D benchmark
 This is the git repository of the 3D benchmark for the minisymposium "Saddle point problems in fluid dynamics".  
 The problem consists in solving the incompressible Navier-Stokes equation in a channel.
 The two geometries are the [Cube](Cube) and the [Nuclear Assembly](NuclearAssembly).
